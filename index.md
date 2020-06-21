@@ -2,7 +2,7 @@
 
 A very interesting character
 
-#Traits
+## Traits
 * intelligent
 * arrogant
 * brilliant
